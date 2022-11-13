@@ -1,0 +1,172 @@
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+    <style type="text/css">
+        * {
+            margin: 0px;
+        }
+    </style>
+</head>
+<body>
+    <div style="height:121px;background-color:aqua">
+        <div style="height:121px;width:12.5%;float:left;background-color:black">
+        </div>
+        <div style="height:121px;width:12.5%;float:left;background-color:white">
+        </div>
+        <div style="height:121px;width:12.5%;float:left;background-color:black">
+        </div>
+        <div style="height:121px;width:12.5%;float:left;background-color:white">
+        </div>
+        <div style="height:121px;width:12.5%;float:left;background-color:black">
+        </div>
+        <div style="height:121px;width:12.5%;float:left;background-color:white">
+        </div>
+        <div style="height:121px;width:12.5%;float:left;background-color:black">
+        </div>
+        <div style="height:121px;width:12.5%;float:left;background-color:white">
+        </div>
+        
+       
+    </div>
+
+    <div style="height:121px;background-color:aqua">
+        <div style="height:121px;width:12.5%;float:left;background-color:white">
+        </div>
+        <div style="height:121px;width:12.5%;float:left;background-color:black">
+        </div>
+        <div style="height:121px;width:12.5%;float:left;background-color:white">
+        </div>
+        <div style="height:121px;width:12.5%;float:left;background-color:black">
+        </div>
+        <div style="height:121px;width:12.5%;float:left;background-color:white">
+        </div>
+        <div style="height:121px;width:12.5%;float:left;background-color:black">
+        </div>
+        <div style="height:121px;width:12.5%;float:left;background-color:white">
+        </div>
+        <div style="height:121px;width:12.5%;float:left;background-color:black">
+        </div>
+
+
+    </div>
+
+    <div style="height:121px;background-color:aqua">
+        <div style="height:121px;width:12.5%;float:left;background-color:black">
+        </div>
+        <div style="height:121px;width:12.5%;float:left;background-color:white">
+        </div>
+        <div style="height:121px;width:12.5%;float:left;background-color:black">
+        </div>
+        <div style="height:121px;width:12.5%;float:left;background-color:white">
+        </div>
+        <div style="height:121px;width:12.5%;float:left;background-color:black">
+        </div>
+        <div style="height:121px;width:12.5%;float:left;background-color:white">
+        </div>
+        <div style="height:121px;width:12.5%;float:left;background-color:black">
+        </div>
+        <div style="height:121px;width:12.5%;float:left;background-color:white">
+        </div>
+
+
+    </div>
+
+    <div style="height:121px;background-color:aqua">
+        <div style="height:121px;width:12.5%;float:left;background-color:white">
+        </div>
+        <div style="height:121px;width:12.5%;float:left;background-color:black">
+        </div>
+        <div style="height:121px;width:12.5%;float:left;background-color:white">
+        </div>
+        <div style="height:121px;width:12.5%;float:left;background-color:black">
+        </div>
+        <div style="height:121px;width:12.5%;float:left;background-color:white">
+        </div>
+        <div style="height:121px;width:12.5%;float:left;background-color:black">
+        </div>
+        <div style="height:121px;width:12.5%;float:left;background-color:white">
+        </div>
+        <div style="height:121px;width:12.5%;float:left;background-color:black">
+        </div>
+
+
+    </div>
+
+    <div style="height:121px;background-color:aqua">
+        <div style="height:121px;width:12.5%;float:left;background-color:black">
+        </div>
+        <div style="height:121px;width:12.5%;float:left;background-color:white">
+        </div>
+        <div style="height:121px;width:12.5%;float:left;background-color:black">
+        </div>
+        <div style="height:121px;width:12.5%;float:left;background-color:white">
+        </div>
+        <div style="height:121px;width:12.5%;float:left;background-color:black">
+        </div>
+        <div style="height:121px;width:12.5%;float:left;background-color:white">
+        </div>
+        <div style="height:121px;width:12.5%;float:left;background-color:black">
+        </div>
+        <div style="height:121px;width:12.5%;float:left;background-color:white">
+        </div>
+
+
+    </div>
+
+    <div style="height:121px;background-color:aqua">
+        <div style="height:121px;width:12.5%;float:left;background-color:white">
+        </div>
+        <div style="height:121px;width:12.5%;float:left;background-color:black">
+        </div>
+        <div style="height:121px;width:12.5%;float:left;background-color:white">
+        </div>
+        <div style="height:121px;width:12.5%;float:left;background-color:black">
+        </div>
+        <div style="height:121px;width:12.5%;float:left;background-color:white">
+        </div>
+        <div style="height:121px;width:12.5%;float:left;background-color:black">
+        </div>
+        <div style="height:121px;width:12.5%;float:left;background-color:white">
+        </div>
+        <div style="height:121px;width:12.5%;float:left;background-color:black">
+        </div>
+
+
+    </div>
+
+
+    <div style="height:121px;background-color:aqua">
+        <div style="height:121px;width:12.5%;float:left;background-color:black">
+        </div>
+        <div style="height:121px;width:12.5%;float:left;background-color:white">
+        </div>
+        <div style="height:121px;width:12.5%;float:left;background-color:black">
+        </div>
+        <div style="height:121px;width:12.5%;float:left;background-color:white">
+        </div>
+        <div style="height:121px;width:12.5%;float:left;background-color:black">
+        </div>
+        <div style="height:121px;width:12.5%;float:left;background-color:white">
+        </div>
+        <div style="height:121px;width:12.5%;float:left;background-color:black">
+        </div>
+        <div style="height:121px;width:12.5%;float:left;background-color:white">
+        </div>
+
+
+    </div>
+
+
+
+
+
+</body>
+</html>
